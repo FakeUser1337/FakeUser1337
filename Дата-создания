@@ -1,14 +1,14 @@
 /**
-    * @name — Дата-регистрации
-    * @author — Fake's projects
-    * @source — https://github.com/FakeUser1337/FakeUser1337/blob/main/%D0%94%D0%B0%D1%82%D0%B0-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F
-    * @description — Показывает дату регистрации любого аккаунта.
-    * @website — https://fakesite.cc/
-    * @discord server — https://discord.com/invite/USh6AZkZ5A
-    * @vk group — https://vk.com/fakevk_ov
-    * @youtube channel — https://www.youtube.com/channel/UC5iaiJXv2s2MAIqkHf4SdQA/
-    * @telegram channel — https://t.me/faketg_ov
-    * @version — 0.0.1
+    * @name Дата-регистрации
+    * @author Fake's projects
+    * @source https://github.com/FakeUser1337/FakeUser1337/blob/main/%D0%94%D0%B0%D1%82%D0%B0-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F
+    * @description Показывает дату регистрации любого аккаунта.
+    * @website https://fakesite.cc/
+    * @discord server https://discord.com/invite/USh6AZkZ5A
+    * @vk group https://vk.com/fakevk_ov
+    * @youtube channel https://www.youtube.com/channel/UC5iaiJXv2s2MAIqkHf4SdQA/
+    * @telegram channel https://t.me/faketg_ov
+    * @version 0.0.1
  */
 
 module.exports = (_ => {
